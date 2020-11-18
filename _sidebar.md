@@ -3,6 +3,12 @@
 
 * [HOME](./)
 
-* [Conceptual Model](./ConceptualModel/index)
-* [System Users](./Users/index)
-* [Interface Design Decisions](./Design/index)
+* [Tutorials](./tutorials/index)
+  * [Tomcat](./tutorials/tomcat/index)
+  * [Cloud](./tutorials/cloud/index)
+  * [Java](./tutorials/java/index)
+
+* [About](./about/index)
+
+* [Contact](./contact/index)
+
